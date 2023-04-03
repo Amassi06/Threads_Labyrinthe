@@ -5,11 +5,11 @@ Le but de ce projet est d'utiliser vos compétences en C et vos connaissances de
 # Consignes
 
 L'objectif est de résoudre une instance de labyrinthe.
-
-->écrire un programme qui génère une instance de labyrinthe simple (à une entrée et une sortie).
-->écrire un premier programme qui résolve une instance de labyrinthe simple.
-->écrire une deuxième méthode de résolution de labyrinthe utilisant des threads pour la résolution de labyrinthe.
-    -écrire une première version sans limite du nombre de threads
+\n
+->écrire un programme qui génère une instance de labyrinthe simple (à une entrée et une sortie).\n
+->écrire un premier programme qui résolve une instance de labyrinthe simple.\n
+->écrire une deuxième méthode de résolution de labyrinthe utilisant des threads pour la résolution de labyrinthe.\n
+    -écrire une première version sans limite du nombre de threads\n
     -écrire une deuxième version qui devra limiter le nombre de threads à utiliser
     
 # Schéma
