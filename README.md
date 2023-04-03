@@ -21,4 +21,4 @@ L'objectif est de résoudre une instance de labyrinthe.
    
    
    
-[!alt][https://github.com/Amassi06/Threads_Labyrinthe/blob/main/Capture%20d'%C3%A9cran%202023-04-03%20192331.png]
+![alt text](https://github.com/Amassi06/Threads_Labyrinthe/blob/main/Capture%20d'%C3%A9cran%202023-04-03%20192331.png)
