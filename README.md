@@ -18,4 +18,7 @@ L'objectif est de résoudre une instance de labyrinthe.
      1 --> route
      2 --> position de départ
      3 --> position de sortie
-     
+   
+   
+   
+[!alt][https://github.com/Amassi06/Threads_Labyrinthe/blob/main/Capture%20d'%C3%A9cran%202023-04-03%20192331.png]
